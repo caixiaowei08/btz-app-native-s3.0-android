@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">btz-app-native-s3.0-android</string>
+    <!--app名称-->
+    <string name="app_name">百题斩</string>
 </resources>
